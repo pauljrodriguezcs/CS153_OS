@@ -182,9 +182,9 @@ fork(void)
 
 // Exit the current process.  Does not return.
 // An exited process remains in the zombie state
-// until its parent calls wait() to find out it exited.
+// until its parent calls wait(&status) to find out it exited.
 void
-exit(void)
+exit(int status)
 {
   struct proc *p;
   int fd;
@@ -207,7 +207,7 @@ exit(void)
 
   acquire(&ptable.lock);
 
-  // Parent might be sleeping in wait().
+  // Parent might be sleeping in wait(&status).
   wakeup1(proc->parent);
 
   // Pass abandoned children to init.
@@ -223,12 +223,13 @@ exit(void)
   proc->state = ZOMBIE;
   sched();
   panic("zombie exit");
+  proc->status=status;
 }
 
 // Wait for a child process to exit and return its pid.
 // Return -1 if this process has no children.
 int
-wait(void)
+wait(int *status)
 {
   struct proc *p;
   int havekids, pid;
@@ -266,6 +267,17 @@ wait(void)
     // Wait for children to exit.  (See wakeup1 call in proc_exit.)
     sleep(proc, &ptable.lock);  //DOC: wait-sleep
   }
+ 
+	// Lab 01 Part b
+	if(*status == 0){
+		return pid;
+	}
+	
+	else{
+		*status = p->status;
+		return pid;
+	}
+ 
 }
 
 //PAGEBREAK: 42
@@ -482,4 +494,13 @@ procdump(void)
     }
     cprintf("\n");
   }
+}
+
+void
+hello(void)
+{
+	cprintf("\n\nF*ck tha police! Comin' straight from the underground \n");
+	cprintf("A young nigga got it bad 'cause I'm brown\n");
+	cprintf("And not the other color, so police think\n");
+	cprintf("They have the authority to kill a minority\n\n");
 }
