@@ -100,3 +100,16 @@ sys_hello(void)
 	hello();
 	return 0;
 }
+
+int
+sys_waitpid(void)
+{
+	int pid;
+	int *status;
+	int options;
+	argint(0,&pid);
+	argptr(0, (char **) &status, sizeof(int*));
+	argint(0, &options);
+	return waitpid(pid, status, options);
+	return 0;
+}

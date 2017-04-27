@@ -176,6 +176,7 @@ UPROGS=\
 	_wc\
 	_zombie\
 	_test\
+	_stay_woke_test\
 
 fs.img: mkfs README $(UPROGS)
 	./mkfs fs.img README $(UPROGS)
