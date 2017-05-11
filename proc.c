@@ -49,6 +49,7 @@ allocproc(void)
 found:
   p->state = EMBRYO;
   p->pid = nextpid++;
+  p->priority = 20;
 
   release(&ptable.lock);
 
@@ -102,6 +103,8 @@ userinit(void)
 
   safestrcpy(p->name, "initcode", sizeof(p->name));
   p->cwd = namei("/");
+  
+  // p->priority = 20;
 
   // this assignment to p->state lets other cores
   // run this process. the acquire forces the above
@@ -142,6 +145,7 @@ fork(void)
 {
   int i, pid;
   struct proc *np;
+  
 
   // Allocate process.
   if((np = allocproc()) == 0){
@@ -304,6 +308,9 @@ wait(int *status)
 //  - swtch to start running that process
 //  - eventually that process transfers control
 //      via swtch back to the scheduler.
+
+/*	Old Scheduler that will be overwritten by new scheduler below 
+ * lab 1 part 2
 void
 scheduler(void)
 {
@@ -335,6 +342,54 @@ scheduler(void)
     release(&ptable.lock);
 
   }
+}
+*/
+
+// New dank scheduler implementation for lab 1 part 2
+void
+scheduler(void)
+{
+  struct proc *p;
+
+  for(;;){
+    // Enable interrupts on this processor.
+    sti();
+    
+    int lowest = 64;
+		
+	acquire(&ptable.lock);
+	for(p = ptable.proc; p < &ptable.proc[NPROC]; p++){
+		if(p->state != RUNNABLE){
+			continue;
+		}
+		
+		if(p->priority < lowest){
+			lowest = p->priority;
+		}
+	}
+		
+		// Loop over process table looking for process to run.
+		for(p = ptable.proc; p < &ptable.proc[NPROC]; p++){
+			if(p->state != RUNNABLE || p->priority != lowest){
+				continue;
+			}
+			// Switch to chosen process.  It is the process's job
+			// to release ptable.lock and then reacquire it
+			// before jumping back to us.
+			proc = p;
+			switchuvm(p);
+			p->state = RUNNING;
+			swtch(&cpu->scheduler, p->context);
+			switchkvm();
+
+			// Process is done running for now.
+			// It should have changed its p->state before coming back.
+			proc = 0;
+			
+		}
+		release(&ptable.lock);
+	}
+  
 }
 
 // Enter scheduler.  Must hold only ptable.lock
@@ -571,7 +626,28 @@ waitpid(int pid, int *status, int options)
     }
 
     // Wait for children to exit.  (See wakeup1 call in proc_exit.)
-    sleep(proc, &ptable.lock);  //DOC: wait-sleep
-	
+    sleep(proc, &ptable.lock);  //DOC: wait-sleep	
 	}
 }
+
+// Lab 1 Part 2: Set Priority of process
+void
+setpriority(int pri){
+	proc->priority = pri;		
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

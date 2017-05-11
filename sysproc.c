@@ -108,8 +108,17 @@ sys_waitpid(void)
 	int *status;
 	int options;
 	argint(0,&pid);
-	argptr(0, (char **) &status, sizeof(int*));
-	argint(0, &options);
+	argptr(1, (char **) &status, sizeof(int*));
+	argint(2, &options);
 	return waitpid(pid, status, options);
+	return 0;
+}
+
+int
+sys_setpriority(void)
+{
+	int priority;
+	argint(0, &priority);
+	setpriority(priority);
 	return 0;
 }
