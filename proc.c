@@ -636,18 +636,32 @@ setpriority(int pri){
 	proc->priority = pri;		
 }
 
+// Lab 2 part Juan: virtual to physical translation
+int
+v2p(int virtual, int *physical){
+	pde_t *pde;
+	pte_t *pgtab;
+		
+	pde = &proc->pgdir[PDX(virtual)];
+	if(*pde & PTE_P){ // Page directory anded with present bit to determine presence
+		pgtab = (pte_t*)P2V(PTE_ADDR(*pde));
+		pde = &pgtab[PTX(virtual)]; // pde will be used to store page table entry, not page directory entry
+		
+		if(*pde & PTE_P){ // Page Table anded with present bit to determine presence
+			//int *offset = PTE_FLAGS(virtual);
+			//int *physical_20 = PTE_ADDR(pde);
+			*physical = (PTE_ADDR(*pde) | PTE_FLAGS(virtual));
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+			return -1;
+		}
+		
+		else{ // else page table entry not present
+		}
+	}
+	
+	else{ // else page directory entry not present
+	}
+	
+	return 0;
+}
 

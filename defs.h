@@ -119,6 +119,7 @@ void            yield(void);
 void			hello(void);
 int 			waitpid(int pid, int *status, int options);
 void			setpriority(int priority);
+int 			v2p(int virtual, int *physical);
 
 // swtch.S
 void            swtch(struct context**, struct context*);
