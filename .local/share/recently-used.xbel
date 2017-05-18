@@ -1,0 +1,3097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ubuntu/xv6/asm.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/bio.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/bio.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/bio.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/bootasm.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/bootasm.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/bootasm.S" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/bootblock" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/bootblock.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/bootblock.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/bootblockother.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/bootmain.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/bootmain.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/bootmain.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/buf.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/BUGS" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/cat.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/cat.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/cat.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/cat.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/cat.sym" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/_cat" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/console.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/console.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/console.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/cuth" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/date.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/defs.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/dot-bochsrc" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/echo.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/echo.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/echo.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/echo.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/echo.sym" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/_echo" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/elf.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/entry.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/entry.S" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/entryother" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/entryother.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/entryother.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/entryother.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/entryother.S" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/exec.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/exec.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/exec.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/fcntl.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/file.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/file.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/file.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/file.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/forktest.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/forktest.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/forktest.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/forktest.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/_forktest" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/fs.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/fs.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/fs.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/fs.img" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-raw-disk-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/fs.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/gdbutil" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/grep.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/grep.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/grep.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/grep.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/grep.sym" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/_grep" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/ide.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/ide.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/ide.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/init.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/init.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/init.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/init.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/init.sym" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/_init" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/initcode" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/initcode.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/initcode.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/initcode.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/initcode.out" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/initcode.S" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/ioapic.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/ioapic.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/ioapic.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/kalloc.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/kalloc.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/kalloc.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/kbd.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/kbd.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/kbd.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/kbd.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/kernel" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/kernel.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/kernel.ld" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/kernel.sym" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/kill.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/kill.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/kill.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/kill.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/kill.sym" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/_kill" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/lab1.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/lab1.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/lab1.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/lab1.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/lab1.sym" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/lab2.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/lab2.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/lab2.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/lab2.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/lab2.sym" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/_lab1" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/_lab2" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/lapic.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/lapic.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/lapic.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/LICENSE" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/ln.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/ln.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/ln.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/ln.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/ln.sym" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/_ln" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/log.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/log.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/log.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/ls.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/ls.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/ls.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/ls.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/ls.sym" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/_ls" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/main.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/main.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/main.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/Makefile" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/memide.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/memlayout.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/mkdir.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/mkdir.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/mkdir.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/mkdir.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/mkdir.sym" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/_mkdir" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/mkfs" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/mkfs.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/mmu.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/mp.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/mp.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/mp.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/mp.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/Notes" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/param.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/picirq.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/picirq.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/picirq.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/pipe.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/pipe.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/pipe.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/pr.pl" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-perl"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/printf.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/printf.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/printf.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/printpcs" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/proc.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T16:03:32Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T16:03:32Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/proc.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/proc.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/proc.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/README" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/rm.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/rm.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/rm.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/rm.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/rm.sym" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/_rm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/runoff" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/runoff.list" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/runoff.spec" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-rpm-spec"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/runoff1" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/sh.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/sh.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/sh.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/sh.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/sh.sym" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/_sh" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/show1" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/sign.pl" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-perl"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/sleep1.p" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-pascal"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/sleeplock.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/sleeplock.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/sleeplock.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/sleeplock.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/spinlock.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/spinlock.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/spinlock.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/spinlock.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/spinp" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/stat.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/stressfs.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/stressfs.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/stressfs.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/stressfs.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/stressfs.sym" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/_stressfs" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/string.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/string.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/string.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/swtch.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/swtch.S" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/symlink.patch" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/syscall.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/syscall.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/syscall.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/syscall.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/sysfile.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/sysfile.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/sysfile.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/sysproc.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/sysproc.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/sysproc.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/test.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/test.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/test.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/test.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/test.sym" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/_test" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/timer.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/timer.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/timer.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/toc.ftr" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/toc.hdr" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/trap.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/trap.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/trap.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/trapasm.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/trapasm.S" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/traps.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/TRICKS" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/types.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/uart.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/uart.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/uart.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/ulib.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/ulib.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/ulib.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/umalloc.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/umalloc.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/umalloc.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/user.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/usertests.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/usertests.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/usertests.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/usertests.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/usertests.sym" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/_usertests" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/usys.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/usys.S" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/vectors.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/vectors.pl" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-perl"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/vectors.S" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/vm.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/vm.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/vm.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/wc.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/wc.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/wc.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/wc.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/wc.sym" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/_wc" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/x86.h" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/xv6.img" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-raw-disk-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/zombie.asm" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/zombie.c" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/zombie.d" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dsrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/zombie.o" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/zombie.sym" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/_zombie" added="2017-05-18T15:18:22Z" modified="2017-05-18T15:18:22Z" visited="2017-05-18T15:18:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-05-18T15:18:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/xv6/.S" added="2017-05-18T15:23:40Z" modified="2017-05-18T15:23:40Z" visited="2017-05-18T15:23:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2017-05-18T15:23:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

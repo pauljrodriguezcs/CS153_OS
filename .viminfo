@@ -8,8 +8,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:wq
 :q
+:wq
 
 # Search String History (newest to oldest):
 
@@ -20,20 +20,29 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	/
 
 # File marks:
-'0  6  8  ~/xv6/stay_woke_test.
-'1  1  0  ~/xv6/stay_woke_test.c
-'2  1  0  ~/Makefile
-'3  1  0  ~/MAKEFILE
-'4  97  0  ~/xv6/sysproc.c
-'5  150  0  ~/xv6/defs.h
-'6  1  0  ~/xv6/user.h
-'7  82  0  ~/xv6/syscall.c
-'8  1  0  ~/xv6/syscall.h
-'9  1  0  ~/xv6/usys.S
+'0  1  0  ~/xv6/lab1.c
+'1  399  0  ~/xv6/proc.c
+'2  630  48  ~/xv6/proc.c
+'3  1  0  ~/xv6/sedoUWMtU
+'4  7  8  ~/xv6/.git/info/exclude
+'5  6  8  ~/xv6/stay_woke_test.
+'6  1  0  ~/xv6/stay_woke_test.c
+'7  1  0  ~/Makefile
+'8  1  0  ~/MAKEFILE
+'9  97  0  ~/xv6/sysproc.c
 
 # Jumplist (newest first):
+-'  1  0  ~/xv6/lab1.c
+-'  399  0  ~/xv6/proc.c
+-'  1  0  ~/xv6/proc.c
+-'  630  48  ~/xv6/proc.c
+-'  1  0  ~/xv6/sedoUWMtU
+-'  7  8  ~/xv6/.git/info/exclude
+-'  1  0  ~/xv6/.git/info/exclude
 -'  6  8  ~/xv6/stay_woke_test.
 -'  1  0  ~/xv6/stay_woke_test.
 -'  1  0  ~/xv6/stay_woke_test.c
@@ -53,12 +62,11 @@
 -'  1  0  ~/xv6/Makefile
 -'  1  0  ~/xv6/test.c
 -'  51  0  ~/xv6/proc.c
--'  1  0  ~/xv6/proc.c
--'  494  0  ~/xv6/proc.c
--'  492  52  ~/xv6/proc.c
--'  493  58  ~/xv6/proc.c
--'  491  57  ~/xv6/proc.c
--'  489  0  ~/xv6/proc.c
+-'  495  0  ~/xv6/proc.c
+-'  493  52  ~/xv6/proc.c
+-'  494  58  ~/xv6/proc.c
+-'  492  57  ~/xv6/proc.c
+-'  490  0  ~/xv6/proc.c
 -'  98  0  ~/xv6/sysproc.c
 -'  119  18  ~/xv6/defs.h
 -'  26  15  ~/xv6/user.h
@@ -110,31 +118,52 @@
 -'  13  19  ~/.vimrc
 -'  1  0  ~/.vimrc
 -'  13  19  ~/.vimrc
--'  51  0  ~/xv6/proc.c
--'  1  0  ~/xv6/proc.c
 -'  1  0  ~/xv6/test.c
 -'  175  0  ~/xv6/Makefile
 -'  1  0  ~/xv6/Makefile
 -'  1  0  ~/xv6/test.c
--'  51  0  ~/xv6/proc.c
--'  1  0  ~/xv6/proc.c
--'  494  0  ~/xv6/proc.c
--'  492  52  ~/xv6/proc.c
--'  493  58  ~/xv6/proc.c
--'  491  57  ~/xv6/proc.c
--'  489  0  ~/xv6/proc.c
 -'  1  0  ~/xv6/usys.s
 -'  175  0  ~/xv6/Makefile
 -'  1  0  ~/xv6/usys.S
 -'  1  0  ~/xv6/usys.s
 -'  1  0  ~/xv6/usys.S
--'  1  0  ~/xv6/syscall.h
--'  82  0  ~/xv6/syscall.c
--'  1  0  ~/xv6/user.h
--'  82  0  ~/xv6/syscall.c
--'  150  0  ~/xv6/defs.h
+-'  629  48  ~/xv6/proc.c
+-'  1  0  ~/xv6/sedoUWMtU
+-'  7  8  ~/xv6/.git/info/exclude
+-'  1  0  ~/xv6/.git/info/exclude
+-'  6  8  ~/xv6/stay_woke_test.
+-'  1  0  ~/xv6/stay_woke_test.
+-'  1  0  ~/xv6/stay_woke_test.c
 
 # History of marks within files (newest to oldest):
+
+> ~/xv6/lab1.c
+	"	1	0
+
+> ~/xv6/proc.c
+	"	399	0
+	^	399	0
+	.	398	2
+	+	495	0
+	+	491	76
+	+	492	8
+	+	491	69
+	+	492	57
+	+	491	14
+	+	493	49
+	+	492	51
+	+	494	58
+	+	492	52
+	+	493	53
+	+	493	53
+	+	630	49
+	+	398	2
+
+> ~/xv6/.git/info/exclude
+	"	7	8
+	^	7	9
+	.	7	9
+	+	7	9
 
 > ~/xv6/stay_woke_test.
 	"	6	8
@@ -202,23 +231,6 @@
 	^	8	8
 	.	9	0
 	+	9	0
-
-> ~/xv6/proc.c
-	"	51	0
-	^	494	1
-	.	492	53
-	+	494	0
-	+	490	76
-	+	491	8
-	+	490	69
-	+	491	57
-	+	490	14
-	+	492	49
-	+	491	51
-	+	493	58
-	+	491	52
-	+	492	53
-	+	492	53
 
 > ~/.vimrc
 	"	13	19
